@@ -3,3 +3,39 @@
 *********************************************
 
 Let's dive in....
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+-----Hue & Saturation-----
+
+	It is in Adjustments panel. If you can not see the adjustment panel, simply go to the window in the menu bar then put tick to 'Adjustments'. After that you would be able to see Adjustments panel.
+	Using Hue, we can change the color of the picture. Using Saturation, we change the intensity of the the picture.
+	If we want to only change the specific colour of the picture, firstly you should select the colour from "Range" option.(for an example:- you want to change the colour of the an apple red to green) After that, adjust Hue & Saturation. Then you can see the colour changing only effect to the colour that you selected from "Range" option.
+	
+	
+----- Vibrance & Saturation-----
+
+	It is also in the Adjustments panel (Upside down triangle shape). Using this, We can do image correction. We can adjust the light of the image.(for an example:- Your picture has low light)
+	
+	
+-----Levels-----
+
+	It is also in the Adjustments panel. In here also, we can change the colour of the picture as well as can set the effect for specific colour by selecting colour from dropdown list of "Channel" option. 
+	
+
+-----Exposure-----
+
+	It is also in the Adjustments panel. Using this, We can do image correction. We can adjust the light of the image.
+	
+-----Invert & Threshold-----
+
+	It is also in the Adjustments panel. Invert is used to apply nagative effect of the Picture. Threshold is used to make the image as 'Black & White'.
+	
+-----Curves-----
+
+	 It is also in the Adjustments panel. This is used for adjustments of brightness and contrast of the image.
+	 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
