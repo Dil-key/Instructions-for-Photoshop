@@ -39,3 +39,9 @@ Let's dive in....
 
 
 -----Content Aware Fill-----
+
+	This is used for removing unwanted objects from the image. Firstly, select the unwanted image by using "Lasso Select" tool of left hand side tool bar. After that, go to the 'Edit'of menu bar then select 'Fill'. Then select 'Content Aware' from 'Fill' dropdown and put the tick to 'Preserve Transparancy'. After that, press 'OK'. You will be able to see unwanted image was removed.
+	
+-----Content Aware Cropping-----
+
+	It is used for enlarging or existing the image.
